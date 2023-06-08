@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="enter_gain_factor">Enter gain factor</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="status">status</string>
+</resources>
